@@ -1,3 +1,4 @@
+### C++ template
 # Prerequisites
 *.d
 
@@ -30,3 +31,6 @@
 *.exe
 *.out
 *.app
+
+/build/
+/cmake-build-debug/
